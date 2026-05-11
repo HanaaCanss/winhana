@@ -43,7 +43,7 @@ Sebelum menjalankan script, pastikan VPS kamu memenuhi kriteria berikut:
 Buka terminal SSH kamu (Putty/Termux/CMD) dan tempelkan perintah berikut:
 
 ```bash
-curl -sL [https://raw.githubusercontent.com/Hana/winhana/main/winhana.sh](https://raw.githubusercontent.com/Hana/winhana/main/winhana.sh) | sudo bash
+curl -sL [https://raw.githubusercontent.com/HanaaCanss/winhana/main/winhana.sh](https://raw.githubusercontent.com/HanaaCanss/winhana/main/winhana.sh) | sudo bash
 ```
 
 ### 2. Memilih Versi Windows
