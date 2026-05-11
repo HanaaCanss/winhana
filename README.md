@@ -1,6 +1,6 @@
 # 🚀 WINHANA - Auto Windows VPS Installer
 
-![Banner WinHana](https://raw.githubusercontent.com/Hana/winhana/main/images/banner.jpg)
+![Banner WinHana]([https://raw.githubusercontent.com/Hana/winhana/main/images/banner.jpg](https://raw.githubusercontent.com/HanaaCanss/winhana/refs/heads/Hanaaa/assets/main.jpg))
 
 **WINHANA** adalah script otomasi canggih yang dirancang untuk menginstal sistem operasi Windows di dalam Linux VPS menggunakan teknologi Docker dan KVM. Dengan script ini, kamu bisa memiliki VPS Windows hanya dengan satu baris perintah tanpa perlu melakukan setup manual yang rumit.
 
